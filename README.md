@@ -17,8 +17,11 @@ Options:
                         Interface to change its MAC address
   -m NEW_MAC, --mac=NEW_MAC
                         New MAC address
+  -r RANDOM,  --random RANDOM (Default)
+                        Generate a random MAC Address
+      
 ```
 
 ## Example
 ```
-python2 MAChanger.py --interface eth0 --mac 00:34:12:78:9a:bc
+sudo python2 MAChanger.py --interface eth0 --mac 00:34:12:78:9a:bc
