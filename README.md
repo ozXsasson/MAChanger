@@ -1,5 +1,5 @@
 # MAChanger
-A Simple Python script to change your MAC address to specify new one.
+A Simple Python script to change your MAC address to specify a new one.
 
 ## Installation
 ```
